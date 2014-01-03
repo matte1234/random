@@ -1,7 +1,1 @@
-$ mkdir ~/Random
-
-$ cd ~/Random
-
-$git init
-
-$ touch README
+This is just for funnnnnnnn.
